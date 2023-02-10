@@ -1,10 +1,7 @@
 {
   "User": {
     "_": {
-      "items": 10,
-      "data": [
-	        { "name": "John Doe", "contact": "1234567890"}
-      ]
+      "items": 10
     },
     "name": { "string": {} },
     "contact": { "regexp": "^[0-9]{10}$" }
