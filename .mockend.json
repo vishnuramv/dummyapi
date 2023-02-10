@@ -3,7 +3,7 @@
     "_": {
       "items": 10,
       "data": [
-	        { "name": "John Doe", "contact": 1234567890}
+	        { "name": "John Doe", "contact": "1234567890"}
       ]
     },
     "name": { "string": {} },
