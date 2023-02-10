@@ -7,6 +7,6 @@
       ]
     },
     "name": { "string": {} },
-    "contact": { "refexp": "^[0-9]{10}$" }
+    "contact": { "regexp": "^[0-9]{10}$" }
   }
 }
